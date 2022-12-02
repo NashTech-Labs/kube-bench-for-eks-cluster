@@ -2,7 +2,7 @@
 First you install the kube-bench for eks cluster. using this command or use the simple way to use the eks-cluster YAML file. 
 Than use this template to automate the kube-bench for check the vulnurability of eks-cluster and provide all the data of vulnurability scanning in the data.txt file.
 
-# Install the kube-bench for eks cluster follow all the staeps. 
+# Install the kube-bench for eks cluster follow all the steps. 
 Install kube-bench 
 using the job YAML and apply the yaml on your cluster and check the job.
 
