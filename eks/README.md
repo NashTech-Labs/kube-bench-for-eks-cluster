@@ -18,4 +18,4 @@ And this command to check the vulnurability of cluater:
  * use this file.
  * change the permission of file use chmod +x and the file name ex-- chmod +x eks-bash2.sh
  * after that run this command ./eks.bash2.sh
- * And all the data of eks vulnurability in data.txt file
+ * And all the data of eks vulnurability in abc.txt file
